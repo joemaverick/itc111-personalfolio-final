@@ -1,9 +1,9 @@
-.clock{
+div{
   flex: 1;
   background: #072638;
-  padding: 15px;
+  padding: 10px;
   font-size: 14px;
-  color: white;
+  color: #A4DAFE;
   font-family: 'Roboto', sans-serif;
   text-align: center;
 }
